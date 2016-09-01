@@ -1,0 +1,16 @@
+{
+  "name": "benchmarks-js",
+  "version": "0.0.1",
+  "description": "Benchmark random JS things",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.1",
+    "moment": "^2.14.1"
+  }
+}
